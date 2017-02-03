@@ -1,0 +1,21 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Emulator config file set to C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] DiagnosticsStoreRootPath set to: C:\Users\mickgreen58\AppData\Local\dftmp\Resources\c6a5f424-7409-490d-a4dc-bfb1b3585608
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Loading config file: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Config file to read: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Emulator config file set to C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Found a MonAgentHost.exe. WadArguments: "C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Web\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\mickgreen58\AppData\Local\dftmp\Resources\98687a15-6040-42e3-9565-80ebcf521bd8\WAD0105"  -ConfigFile "C:\Users\mickgreen58\AppData\Local\dftmp\Resources\98687a15-6040-42e3-9565-80ebcf521bd8\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-2a19cc39d6ed4e4ab0d78b87749045ff  -TotalShutDownEvent WADDM-TotalShutDown-2a19cc39d6ed4e4ab0d78b87749045ff -InitializedEvent WADM-StartUp-2a19cc39d6ed4e4ab0d78b87749045ff -parent 18176 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Web\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Loading config file: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Config file to read: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Found a running wad2 MA not sharing the same local directory
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:53:39 PM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Web\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.

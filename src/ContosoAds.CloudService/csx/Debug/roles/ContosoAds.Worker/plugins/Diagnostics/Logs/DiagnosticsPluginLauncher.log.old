@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Emulator config file set to C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] DiagnosticsStoreRootPath set to: C:\Users\mickgreen58\AppData\Local\dftmp\Resources\c6a5f424-7409-490d-a4dc-bfb1b3585608
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Loading config file: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Config file to read: C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Emulator config file set to C:\Git\ContosoAds\src\ContosoAds.CloudService\csx\Debug\roles\ContosoAds.Worker\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:50 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:51 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:51 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:51 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:51 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [2/3/2017 1:52:51 PM] Resetting DiagnosticPlugin
