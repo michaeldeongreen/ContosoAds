@@ -1,6 +1,10 @@
 *.user
 
+/src/ContosoAds.Common/bin
+/src/ContosoAds.Common/obj
+
 /src/ContosoAds.CloudService/.vs
+/src/ContosoAds.CloudService/obj
 /src/ContosoAds.CloudService/bin
 /src/ContosoAds.CloudService/packages
 
