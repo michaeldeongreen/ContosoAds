@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ContosoAds.CloudService", "ContosoAds.CloudService.ccproj", "{86A7771B-4262-44FC-B7A1-6199ABB78346}"
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ContosoAds.CloudService", "ContosoAds.CloudService\ContosoAds.CloudService.ccproj", "{86A7771B-4262-44FC-B7A1-6199ABB78346}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAds.Web", "ContosoAds.Web\ContosoAds.Web.csproj", "{9B8A30A9-950A-4CBC-9533-30FC546AF630}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAds.Worker", "ContosoAds.Worker\ContosoAds.Worker.csproj", "{4568D0E7-4F09-4324-BD94-2C83C6A6F825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAds.Common", "..\ContosoAds.Common\ContosoAds.Common.csproj", "{3DB6B1A2-82DD-44A2-A36C-E4027F2FAE59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoAds.Common", "ContosoAds.Common\ContosoAds.Common.csproj", "{3DB6B1A2-82DD-44A2-A36C-E4027F2FAE59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

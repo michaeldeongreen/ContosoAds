@@ -37,7 +37,7 @@
     <ServiceConfiguration Include="ServiceConfiguration.Cloud.cscfg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="ContosoAds.Web\ContosoAds.Web.csproj">
+    <ProjectReference Include="..\ContosoAds.Web\ContosoAds.Web.csproj">
       <Name>ContosoAds.Web</Name>
       <Project>{9b8a30a9-950a-4cbc-9533-30fc546af630}</Project>
       <Private>True</Private>
@@ -45,7 +45,7 @@
       <RoleName>ContosoAds.Web</RoleName>
       <UpdateDiagnosticsConnectionStringOnPublish>True</UpdateDiagnosticsConnectionStringOnPublish>
     </ProjectReference>
-    <ProjectReference Include="ContosoAds.Worker\ContosoAds.Worker.csproj">
+    <ProjectReference Include="..\ContosoAds.Worker\ContosoAds.Worker.csproj">
       <Name>ContosoAds.Worker</Name>
       <Project>{4568d0e7-4f09-4324-bd94-2c83c6a6f825}</Project>
       <Private>True</Private>

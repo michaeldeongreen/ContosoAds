@@ -97,7 +97,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ContosoAds.Common\ContosoAds.Common.csproj">
+    <ProjectReference Include="..\ContosoAds.Common\ContosoAds.Common.csproj">
       <Project>{3db6b1a2-82dd-44a2-a36c-e4027f2fae59}</Project>
       <Name>ContosoAds.Common</Name>
     </ProjectReference>
