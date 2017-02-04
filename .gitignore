@@ -7,6 +7,7 @@
 
 /src/ContosoAds.CloudService/obj
 /src/ContosoAds.CloudService/bin
+/src/ContosoAds.CloudService/csx
 
 /src/ContosoAds.Web/bin
 /src/ContosoAds.Web/obj

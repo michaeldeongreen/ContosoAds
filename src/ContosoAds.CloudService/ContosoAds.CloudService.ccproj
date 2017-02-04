@@ -57,10 +57,14 @@
   <ItemGroup>
     <Folder Include="ContosoAds.WebContent\" />
     <Folder Include="ContosoAds.WorkerContent\" />
+    <Folder Include="Profiles" />
   </ItemGroup>
   <ItemGroup>
     <DiagnosticsConfiguration Include="ContosoAds.WebContent\diagnostics.wadcfgx" />
     <DiagnosticsConfiguration Include="ContosoAds.WorkerContent\diagnostics.wadcfgx" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishProfile Include="Profiles\CloudServiceDemoDNSProduction.azurePubxml" />
   </ItemGroup>
   <!-- Import the target files for this project template -->
   <PropertyGroup>

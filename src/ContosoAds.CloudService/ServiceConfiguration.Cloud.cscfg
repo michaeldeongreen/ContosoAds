@@ -3,16 +3,16 @@
   <Role name="ContosoAds.Web">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount;AccountKey=C1CWg96xLjlwnjb/u9UvL+7QDFDWwH2e7MYnxM6Ru2L3dvmKLZIBvH1IQA1UOz4TRs8ooc4zFT1c5Wnq1Ul9Yw==" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount;AccountKey=C1CWg96xLjlwnjb/u9UvL+7QDFDWwH2e7MYnxM6Ru2L3dvmKLZIBvH1IQA1UOz4TRs8ooc4zFT1c5Wnq1Ul9Yw==" />
     </ConfigurationSettings>
   </Role>
   <Role name="ContosoAds.Worker">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="ContosoAdsDbConnectionString" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ContosoAds; Integrated Security=True; MultipleActiveResultSets=True;" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount;AccountKey=C1CWg96xLjlwnjb/u9UvL+7QDFDWwH2e7MYnxM6Ru2L3dvmKLZIBvH1IQA1UOz4TRs8ooc4zFT1c5Wnq1Ul9Yw==" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount;AccountKey=C1CWg96xLjlwnjb/u9UvL+7QDFDWwH2e7MYnxM6Ru2L3dvmKLZIBvH1IQA1UOz4TRs8ooc4zFT1c5Wnq1Ul9Yw==" />
+      <Setting name="ContosoAdsDbConnectionString" value="Server=tcp:cloudservicedemoserver.database.windows.net,1433;Initial Catalog=CloudServiceDemoDatabase;Persist Security Info=False;User ID=demo;Password=g-dR3rax*8$x=9#K;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
