@@ -5,7 +5,7 @@
     <AzureDeleteDeploymentOnFailure>False</AzureDeleteDeploymentOnFailure>
     <AzureDeploymentLabel>ContosoAds.CloudService</AzureDeploymentLabel>
     <AzureDeploymentReplacementMethod>AutomaticUpgrade</AzureDeploymentReplacementMethod>
-    <AzureSlot>Production</AzureSlot>
+    <AzureSlot>Staging</AzureSlot>
     <AzureEnableRemoteDesktop>True</AzureEnableRemoteDesktop>
     <AzureEnableWebDeploy>False</AzureEnableWebDeploy>
     <AzureFallbackToDeleteAndRecreateIfUpgradeFails>False</AzureFallbackToDeleteAndRecreateIfUpgradeFails>
@@ -16,8 +16,8 @@
     <AzureEnableProfiling>False</AzureEnableProfiling>
     <AzureServiceConfiguration>Cloud</AzureServiceConfiguration>
     <AzureSolutionConfiguration>Release</AzureSolutionConfiguration>
-    <AzureStorageAccountLabel>demoazurestorageaccount</AzureStorageAccountLabel>
-    <AzureStorageAccountName>demoazurestorageaccount</AzureStorageAccountName>
+    <AzureStorageAccountLabel>demoazurestorageaccount1</AzureStorageAccountLabel>
+    <AzureStorageAccountName>demoazurestorageaccount1</AzureStorageAccountName>
     <AzureAppendTimestampToDeploymentLabel>True</AzureAppendTimestampToDeploymentLabel>
   </PropertyGroup>
 </Project>

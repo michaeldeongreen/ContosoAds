@@ -5,6 +5,7 @@
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
       <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="caa92896-ae49-43b4-9e2a-ed23cad9b715" />
     </ConfigurationSettings>
   </Role>
   <Role name="ContosoAds.Worker">
@@ -13,6 +14,7 @@
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
       <Setting name="StorageConnectionString" value="UseDevelopmentStorage=true" />
       <Setting name="ContosoAdsDbConnectionString" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ContosoAds; Integrated Security=True; MultipleActiveResultSets=True;" />
+      <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="caa92896-ae49-43b4-9e2a-ed23cad9b715" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
