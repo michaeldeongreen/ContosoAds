@@ -5,19 +5,19 @@
     <AzureDeleteDeploymentOnFailure>False</AzureDeleteDeploymentOnFailure>
     <AzureDeploymentLabel>ContosoAds.CloudService</AzureDeploymentLabel>
     <AzureDeploymentReplacementMethod>AutomaticUpgrade</AzureDeploymentReplacementMethod>
-    <AzureSlot>Staging</AzureSlot>
+    <AzureSlot>Production</AzureSlot>
     <AzureEnableRemoteDesktop>True</AzureEnableRemoteDesktop>
     <AzureEnableWebDeploy>False</AzureEnableWebDeploy>
     <AzureFallbackToDeleteAndRecreateIfUpgradeFails>False</AzureFallbackToDeleteAndRecreateIfUpgradeFails>
-    <AzureHostedServiceLabel>CloudServiceDemoDNS</AzureHostedServiceLabel>
-    <AzureHostedServiceName>CloudServiceDemoDNS</AzureHostedServiceName>
-    <AzureHostedServiceResourceGroup>CloudServiceDemoResourceGroup</AzureHostedServiceResourceGroup>
+    <AzureHostedServiceLabel>MyContosoAdsCloudService</AzureHostedServiceLabel>
+    <AzureHostedServiceName>mycontosoadscloudservice</AzureHostedServiceName>
+    <AzureHostedServiceResourceGroup>mycontosoadscloudservice</AzureHostedServiceResourceGroup>
     <AzureEnableIntelliTrace>False</AzureEnableIntelliTrace>
     <AzureEnableProfiling>False</AzureEnableProfiling>
     <AzureServiceConfiguration>Cloud</AzureServiceConfiguration>
     <AzureSolutionConfiguration>Release</AzureSolutionConfiguration>
-    <AzureStorageAccountLabel>demoazurestorageaccount1</AzureStorageAccountLabel>
-    <AzureStorageAccountName>demoazurestorageaccount1</AzureStorageAccountName>
+    <AzureStorageAccountLabel>democontosoads</AzureStorageAccountLabel>
+    <AzureStorageAccountName>democontosoads</AzureStorageAccountName>
     <AzureAppendTimestampToDeploymentLabel>True</AzureAppendTimestampToDeploymentLabel>
   </PropertyGroup>
 </Project>

@@ -64,7 +64,7 @@
     <DiagnosticsConfiguration Include="ContosoAds.WorkerContent\diagnostics.wadcfgx" />
   </ItemGroup>
   <ItemGroup>
-    <PublishProfile Include="Profiles\CloudServiceDemoDNSProduction.azurePubxml" />
+    <PublishProfile Include="Profiles\MyContosoAdsCloudServiceProduction.azurePubxml" />
   </ItemGroup>
   <!-- Import the target files for this project template -->
   <PropertyGroup>

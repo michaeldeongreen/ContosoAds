@@ -3,17 +3,17 @@
   <Role name="ContosoAds.Web">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount1;AccountKey=77n+oA1GBo657gEryxFbv/EIffezFDzhUqVcUQJ/tQxv8CnYQR9QlHpR6Fw0Aj98T9BOO4KSfcJPNnYTykvJAA==" />
-      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount1;AccountKey=77n+oA1GBo657gEryxFbv/EIffezFDzhUqVcUQJ/tQxv8CnYQR9QlHpR6Fw0Aj98T9BOO4KSfcJPNnYTykvJAA==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=democontosoads;AccountKey=kFIzw2pCuwFBBMswsmOA6n5mZqiwLQ/2DgMw3w/LMGC+4du1VZIRddKRYpEBgEQmQuD/j3amTiewWX+EGoioZg==;EndpointSuffix=core.windows.net" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=democontosoads;AccountKey=kFIzw2pCuwFBBMswsmOA6n5mZqiwLQ/2DgMw3w/LMGC+4du1VZIRddKRYpEBgEQmQuD/j3amTiewWX+EGoioZg==;EndpointSuffix=core.windows.net" />
       <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="caa92896-ae49-43b4-9e2a-ed23cad9b715" />
     </ConfigurationSettings>
   </Role>
   <Role name="ContosoAds.Worker">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount1;AccountKey=77n+oA1GBo657gEryxFbv/EIffezFDzhUqVcUQJ/tQxv8CnYQR9QlHpR6Fw0Aj98T9BOO4KSfcJPNnYTykvJAA==" />
-      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=demoazurestorageaccount1;AccountKey=77n+oA1GBo657gEryxFbv/EIffezFDzhUqVcUQJ/tQxv8CnYQR9QlHpR6Fw0Aj98T9BOO4KSfcJPNnYTykvJAA==" />
-      <Setting name="ContosoAdsDbConnectionString" value="Server=tcp:cloudservicedemoserver.database.windows.net,1433;Initial Catalog=CloudServiceDemoDatabase;Persist Security Info=False;User ID=demo;Password=g-dR3rax*8$x=9#K;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=democontosoads;AccountKey=kFIzw2pCuwFBBMswsmOA6n5mZqiwLQ/2DgMw3w/LMGC+4du1VZIRddKRYpEBgEQmQuD/j3amTiewWX+EGoioZg==;EndpointSuffix=core.windows.net" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=democontosoads;AccountKey=kFIzw2pCuwFBBMswsmOA6n5mZqiwLQ/2DgMw3w/LMGC+4du1VZIRddKRYpEBgEQmQuD/j3amTiewWX+EGoioZg==;EndpointSuffix=core.windows.net" />
+      <Setting name="ContosoAdsDbConnectionString" value="Server=tcp:webjobber.database.windows.net,1433;Initial Catalog=contosoads;Persist Security Info=False;User ID=webjobber;Password=JZJ57YYt3qu2QB7s;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" />
       <Setting name="APPINSIGHTS_INSTRUMENTATIONKEY" value="caa92896-ae49-43b4-9e2a-ed23cad9b715" />
     </ConfigurationSettings>
   </Role>
