@@ -1,0 +1,2 @@
+Azure Cloud Service and IIS App Pool Idle Timeout:
+https://stackoverflow.com/questions/18089487/disable-iis-idle-timeouts-in-azure-web-role

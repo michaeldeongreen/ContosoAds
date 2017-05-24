@@ -16,8 +16,8 @@
     <AzureEnableProfiling>False</AzureEnableProfiling>
     <AzureServiceConfiguration>Cloud</AzureServiceConfiguration>
     <AzureSolutionConfiguration>Release</AzureSolutionConfiguration>
-    <AzureStorageAccountLabel>democontosoads</AzureStorageAccountLabel>
-    <AzureStorageAccountName>democontosoads</AzureStorageAccountName>
+    <AzureStorageAccountLabel>democontosoadsnew</AzureStorageAccountLabel>
+    <AzureStorageAccountName>democontosoadsnew</AzureStorageAccountName>
     <AzureAppendTimestampToDeploymentLabel>True</AzureAppendTimestampToDeploymentLabel>
   </PropertyGroup>
 </Project>
